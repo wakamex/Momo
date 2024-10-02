@@ -1,0 +1,11 @@
+discord.py>=2.3
+google-cloud-aiplatform>=1
+ipykernel>=6
+matplotlib>=3
+pandas>=1.5
+pillow>=10
+python-dotenv>=1
+rollbar>=1
+tqdm>=4
+watchdog>=3
+web3>=6
